@@ -6,7 +6,7 @@ A modern full-stack video sharing platform inspired by YouTube, built using the 
 
 ## 🌐 Live Demo
 
-🔗 https://videotube-s8y97kpnq-baditra7.vercel.app
+🔗 https://videotube-mu.vercel.app
 
 ## Backend API
 
